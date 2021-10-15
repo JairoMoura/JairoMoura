@@ -19,3 +19,4 @@ Olá! sou o Jairo ✌
 - 🌱 Atualmente estou aprendendo, PHP, C#, C, HTML, CSS e SQL
 
 
+![Snake animation](https://github.com/JairoMoura/JairoMoura/blob/output/github-contribution-grid-snake.svg)
